@@ -2,7 +2,6 @@
   <div id="app">
     <p>{{ message }}</p>
     <p>これがVueだよ</p>
-    <p>これがVueだよ</p>
   </div>
 </template>
 
